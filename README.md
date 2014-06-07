@@ -1,0 +1,2 @@
+# noderankings
+### a Sails application
